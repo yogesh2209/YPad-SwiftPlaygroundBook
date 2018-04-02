@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SwiftVersion</key>
+	<string>4.0</string>
+	<key>DevelopmentRegion</key>
+	<string>en</string>
+	<key>ImageReference</key>
+	<string>icon.png</string>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>YPad</string>
+	<key>ContentIdentifier</key>
+	<string>com.yogeshkohli.playground.ypad</string>
+	<key>DeploymentTarget</key>
+	<string>ios11.0</string>
+	<key>Chapters</key>
+	<array>
+		<string>Introduction.playgroundchapter</string>
+		<string>iPadSelection.playgroundchapter</string>
+		<string>UseiPad.playgroundchapter</string>
+		<string>Conclusion.playgroundchapter</string>
+	</array>
+</dict>
+</plist>

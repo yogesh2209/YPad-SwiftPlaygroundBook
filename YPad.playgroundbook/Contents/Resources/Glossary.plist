@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Terms</key>
+        <dict>
+            <key>Gestures</key>
+            <dict>
+                <key>Definition</key>
+                <string>People interact with an iOS device by performing gestures on the touchscreen. These gestures elicit a close personal connection with content and enhance the sense of direct manipulation of onscreen objects.</string>
+            </dict>
+            <key>Emitter</key>
+            <dict>
+                <key>Definition</key>
+                <string>A layer that emits, animates, and renders a particle system.</string>
+            </dict>
+            <key>CoreAnimation</key>
+            <dict>
+                <key>Definition</key>
+                <string>Core Animation is a graphics rendering and animation infrastructure available on both iOS and OS X that you use to animate the views and other visual elements of your app. </string>
+            </dict>
+        </dict>
+    </dict>
+</plist>
+
